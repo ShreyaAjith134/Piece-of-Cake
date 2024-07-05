@@ -1,2 +1,5 @@
 # Piece-of-Cake
-Cake shopping software using Python, tkinter and MySQL
+Welcome to "A Piece of Cake," where the world of cake shopping meets the elegance of Python, the robustness of MySQL, and the user-friendly interface of Tkinter. In this computer science project, we've crafted an app that redefines the cake shopping experience.
+In this virtual haven, we offer a delectable assortment of cakes and desserts, meticulously curated for a myriad of joyous occasions. Our objective is to redefine the online shopping experience, enabling customers to effortlessly place orders from the comfort of their own space. Gone are the days of navigating through crowded bakeries; with "A Piece of Cake," the joy of selecting the perfect dessert is just a click away.
+Moreover, we understand the significance of personalized choices. That's why our online store not only simplifies the ordering process but also provides options like egg/eggless  for each delectable dessert. From the sleek homepage to the checkout process, every line of code is a carefully selected ingredient, blending together to create an interface that's as delightful as the cakes it presents.
+
