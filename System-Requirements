@@ -1,0 +1,13 @@
+
+Hardware
+  -> Windows 10 Pro
+  -> RAM 8.00 GB (7.68 GB usable)
+
+Software
+  -> MySQL 8.0
+  -> IDLE(Python 3.10.5)
+
+Python Modules Required
+  -> Pillow
+  -> Tkinter
+  -> mysql.connector
