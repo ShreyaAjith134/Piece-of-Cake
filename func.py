@@ -323,18 +323,18 @@ def Show_More_Page():
     page_bg(pic_folder+"\\Show more page.png")
     #Celebration Cakes Button
     Celebration_Cakes_Button = Button ( window, text = 'Celebration Cakes', activeforeground='#FFFFFF',
-                      activebackground='#E1AFF0' , bg='#E1AFF0', font=('Cambria'), height= 3, width=38 , command=lambda:celebration_cakes())
-    Celebration_Cakes_Button.place(x=80, y=625) 
+                      activebackground='#E1AFF0' , bg='#E1AFF0', font=('Cambria'), height= 3, width=29 , command=lambda:celebration_cakes())
+    Celebration_Cakes_Button.place(x=78, y=575) 
 
     #Theme cake Button
     Theme_Cakes_Button = Button ( window, text = 'Theme Cakes', activeforeground='#FFFFFF',
-                      activebackground='#E1AFF0' , bg='#E1AFF0', font=('Cambria'), height= 3, width=38 , command=lambda:theme_cakes())
-    Theme_Cakes_Button.place(x=510, y=625)
+                      activebackground='#E1AFF0' , bg='#E1AFF0', font=('Cambria'), height= 3, width=29 , command=lambda:theme_cakes())
+    Theme_Cakes_Button.place(x=479, y=575)
 
     #Wedding Cakes Button
     Wedding_Cakes_Button = Button ( window, text = 'Wedding Cakes', activeforeground='#FFFFFF',
-                      activebackground='#E1AFF0' , bg='#E1AFF0', font=('Cambria'), height= 3, width=38 , command=lambda:wedding_cakes())
-    Wedding_Cakes_Button.place(x=935, y=625)
+                      activebackground='#E1AFF0' , bg='#E1AFF0', font=('Cambria'), height= 3, width=29 , command=lambda:wedding_cakes())
+    Wedding_Cakes_Button.place(x=877, y=575)
     back_to_home()
 
 ###############################################################
@@ -344,7 +344,7 @@ def homepage():
     Show_More_Button = Button ( window, text = 'Show More>', activeforeground='#FFFFFF',
                       activebackground='#F292D2' , bg='#F292D2', font=('Cambria'), height= 1, width=18, command=lambda:Show_More_Page())
     # pady is used for giving some padding in y direction
-    Show_More_Button.place(x=500, y=650)
+    Show_More_Button.place(x=500, y=550)
     
 ###############################################################
 
